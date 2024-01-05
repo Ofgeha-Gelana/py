@@ -13,4 +13,4 @@ Contributions to the repository are welcome.
 #### Happy coding!
 
 
-here fetch clear for sharing contanirs and cont
+here fetch clear for sharing contanirs and conti
