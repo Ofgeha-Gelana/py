@@ -12,4 +12,4 @@ Contributions to the repository are welcome.
 
 #### Happy coding!
 
-clean for
+clean for just
