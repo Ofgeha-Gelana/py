@@ -12,4 +12,4 @@ Contributions to the repository are welcome.
 
 #### Happy coding!
 
-clean for just clea clea for knowing just clea
+clean for just clea clea for knowing just clean
