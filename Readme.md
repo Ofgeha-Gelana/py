@@ -11,5 +11,3 @@ Contributions to the repository are welcome.
 
 
 #### Happy coding!
-
-for
