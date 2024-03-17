@@ -13,4 +13,4 @@ Contributions to the repository are welcome.
 #### Happy coding!
 
 
-here fetch clear for sharing contanirs and contanirs freezing the underst
+here fetch clear for sharing contanirs and contanirs freezing the understa
