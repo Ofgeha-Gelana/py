@@ -11,4 +11,4 @@
    record^one
    continue
    
-   [Solution](https://github.com/Ofgeha-Gelana/py/Basics/Exercise/2_variables/2_variables_exercise.ipynb)
+   [Solution](https://github.com/Ofgeha-Gelana/py/blob/main/Basics/Exercise/2_variables/2_variables_exercise.ipynb)
