@@ -58,3 +58,16 @@ def query():
     else:
         print(f'{country} doesn\'t exist')
         
+
+def operation():
+    op = input("enter operation(query,remove, add, print)")
+    if op == 'query':
+        query()
+    elif op == 'remove':
+        remove()
+    elif op == 'add':
+        add()
+    else:
+        print_all()
+        
+operation()
