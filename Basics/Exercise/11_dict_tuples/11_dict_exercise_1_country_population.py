@@ -70,4 +70,5 @@ def operation():
     else:
         print_all()
         
-operation()
+if __name__ == '__main__':
+    operation()

@@ -45,4 +45,6 @@ def operation():
     else:
         add_stock_price()
 
-operation()
+
+if __name__ == '__main__':
+    operation()
