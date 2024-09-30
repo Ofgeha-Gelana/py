@@ -7,7 +7,7 @@ Write a Python function that reads from a file and handles any potential `FileNo
 3. Regardless of success or error, ensure that the file is properly closed.
 
 ### Sample Code Structure:
-```python
+<!-- ```python -->
 def read_file(filename):
     # Your code here
     pass
@@ -17,7 +17,7 @@ read_file('example.txt')
 
 
 
-## 2 Write a Python function that accepts two inputs from the user: a numerator and a denominator. Handle ZeroDivisionError (if the user tries to divide by zero) and ValueError (if the user enters a non-numeric value). Ensure the function handles both cases and provides meaningful feedback to the user.
+2 Write a Python function that accepts two inputs from the user: a numerator and a denominator. Handle ZeroDivisionError (if the user tries to divide by zero) and ValueError (if the user enters a non-numeric value). Ensure the function handles both cases and provides meaningful feedback to the user.
 
 
 [Solution](https://github.com/Ofgeha-Gelana/py/blob/main/Basics/Exercise/15_exception_handling/exception_handling_solution.py)
