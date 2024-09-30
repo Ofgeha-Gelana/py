@@ -27,4 +27,4 @@ Output.csv should look like this,
 |Reliance|22.23|2.25|
 |Tata Steel|4.39|0.68|
 
-[Solution](https://github.com/codebasics/py/blob/master/Basics/Exercise/13_read_write_files/exercise_2_stocks.py)
+[Solution](https://github.com/Ofgeha-Gelana/py/blob/main/Basics/Exercise/13_read_write_files/exercise_2_stocks.py)
