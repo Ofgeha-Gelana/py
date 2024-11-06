@@ -1,6 +1,6 @@
 .venv
 Data
-color.csv
-movies.csv
+# color.csv
+# movies.csv
 
 *.csv
