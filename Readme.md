@@ -6,8 +6,8 @@ This repository is meant for beginners to assist them in their learning of Pytho
 If this is your first time coding in Python, I would love to suggest you begin from the [Basics](https://github.com/Ofgeha-Gelana/py/tree/main/Basics/Exercise). They are simple to understand and hopefully will prove fun to you.
 
 
-Contributions to the repository are welcome.
 
 
 
 #### Happy coding!
+
