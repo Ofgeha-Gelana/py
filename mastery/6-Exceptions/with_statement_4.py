@@ -1,6 +1,5 @@
 
 # We don't need finally, b/c when we use with it will close automatically
-
 try:
     with open("app.py") as f:
         print("File Opened.")
