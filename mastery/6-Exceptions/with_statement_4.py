@@ -16,7 +16,7 @@ else:
 try:
     with open("app.py") as f, open("another.py", "w") as target:
         print("File Opened.")
-    age = int(input("Ag: "))
+    age = int(input("Age: "))
     xfactor = 10/age
 except (ValueError, ZeroDivisionError, FileNotFoundError):
     print("You didn't enter a valid age.")
