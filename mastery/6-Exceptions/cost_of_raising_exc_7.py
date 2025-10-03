@@ -12,4 +12,4 @@ except ValueError as error:
     print(error)
 """
 
-print(timeit(code1, ))
+print(timeit(code1, number=1000))
