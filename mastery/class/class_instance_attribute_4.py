@@ -1,4 +1,3 @@
-
 class Point:
     default_color = "Red"
     def __init__(self, x, y):
