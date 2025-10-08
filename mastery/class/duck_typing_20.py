@@ -1,15 +1,11 @@
 from abc import ABC, abstractmethod
 
-class UIControl(ABC):
-    @abstractmethod
-    def draw(self):
-        pass
 
-class TextBox(UIControl):
+class TextBox():
     def draw(self):
         print("Text box")
 
-class DropDownlist(UIControl):
+class DropDownlist():
     def draw(self):
         print("Drop downlist")
 
