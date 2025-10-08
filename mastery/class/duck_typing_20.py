@@ -18,8 +18,3 @@ def draw(controls):
     for control in controls:
         control.draw()
 
-ddl = DropDownlist()
-
-textbox = TextBox()
-
-draw([ddl, textbox])
